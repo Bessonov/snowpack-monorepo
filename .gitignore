@@ -3,3 +3,4 @@ node_modules
 .pnp.*
 .yarnrc
 .yarnrc.yml
+dist/
